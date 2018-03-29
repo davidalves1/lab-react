@@ -1,8 +1,8 @@
 import React from 'react';
-import Repos from './github/Repos';
+import ReposContainer from './github/ReposContainer';
 
 const App = () => (
-    <Repos></Repos>
+    <ReposContainer></ReposContainer>
 );
 
 export default App;
